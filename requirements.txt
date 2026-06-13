@@ -1,0 +1,6 @@
+boto3
+requests
+pandas
+openpyxl
+numpy
+python-dotenv
